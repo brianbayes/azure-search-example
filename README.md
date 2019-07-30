@@ -17,7 +17,7 @@ Under `src/dotnet` add a new file with the name `appsettings.dev.json`, this sho
 # Build and Test
 Under the directory `src/dotnet/PremierLeague` run the commands:  
 `dotnet restore`  
-`dotnet run`
+`dotnet run`  
 You should then see the output in the console for the queries found in `RunQueries()`
 
 # Author TODO
